@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+To know more about my AI experience and my knowledge in this domain, go [here](https://github.com/prikmm/AI-Concepts#readme)
+
 <!--
 **prikmm/prikmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
